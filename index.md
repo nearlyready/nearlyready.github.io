@@ -1,3 +1,2 @@
-layout: /_layouts/test.html
-permalink: '/just_a_test'
+layout: test
 title: Here's the title
