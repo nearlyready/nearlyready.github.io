@@ -1,4 +1,4 @@
 layout: page
-permalink: "/<menu-folder>/<page-name>/"
+permalink: "/_layouts/test.html"
 title: Title of the New Page
 excerpt: 
