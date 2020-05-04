@@ -1,4 +1,3 @@
-layout: page
-permalink: "/_layouts/test.html"
-title: Title of the New Page
-excerpt: 
+layout: /_layouts/test.html
+permalink: '/just_a_test'
+title: Here's the title
