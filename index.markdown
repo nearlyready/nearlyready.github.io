@@ -9,3 +9,5 @@ layout: home
 <p>Build your understanding of how infectious disease spreads with this simplified interactive model.</p>
 <h3><a href="{{ 'apps/game-of-life/index.html' | relative_url }}">Game of Life</a></h3>
 <p>Explore the workings of Conway's Game of Life cellular automaton with this interactive web app.</p>
+<h3><a href="{{ 'apps/music-maker/index.html' | relative_url }}">Music Maker</a></h3>
+<p>[Work in Progress] Make music using a simple interface.</p>
