@@ -4,5 +4,8 @@
 
 layout: home
 ---
-<div><a href="{{ 'apps/epidemic-simulator/index.html' | relative_url }}">Epidemic Simulator</a></div>
-<div><a href="{{ 'apps/game-of-life/index.html' | relative_url }}">Game of Life</a></div>
+<p>Welcome to my website. Here are some apps I made in my free time. Hope you enjoy them.</p>
+<h3><a href="{{ 'apps/epidemic-simulator/index.html' | relative_url }}">Epidemic Simulator</a></h3>
+<p>Build your understanding of how infectious disease spreads with this simplified interactive model.</p>
+<h3><a href="{{ 'apps/game-of-life/index.html' | relative_url }}">Game of Life</a></h3>
+<p>Explore the workings of Conway's Game of Life cellular automaton with this interactive web app.</p>
