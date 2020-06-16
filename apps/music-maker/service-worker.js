@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.e60d82af197ba7214b3d76c699de29c3.js"
+  "precache-manifest.8cf9d744216eb13b6de0e73fb861ba58.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "music-maker"});
