@@ -10,4 +10,6 @@ layout: home
 <h3><a href="{{ 'apps/game-of-life/index.html' | relative_url }}">Game of Life</a></h3>
 <p>Explore the workings of Conway's Game of Life cellular automaton with this interactive web app.</p>
 <h3><a href="{{ 'apps/music-maker/index.html' | relative_url }}">Music Maker</a></h3>
-<p>[Work in Progress] Make music using a simple interface.</p>
+<p>Make music using a simple interface.</p>
+<h3><a href="{{ 'apps/fractal-explorer/index.html' | relative_url }}">Fractal Explorer</a></h3>
+<p>Explore intriguing fractals drawn on the complex plane, including the Mandelbrot Set and its associated Julia sets.</p>
