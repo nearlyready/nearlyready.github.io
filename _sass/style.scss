@@ -1,0 +1,18 @@
+.lang-h{
+	display:flex;
+	flex-direction:column;
+}
+.lang-r{
+	display:flex;
+	flex-direction:row;
+	border-bottom: dotted 1px black;
+	padding: 0.25em;
+	margin:0 1em 0 1em;
+}
+.cell1of2{
+	flex-grow:1;
+	font-weight:bold;
+}
+.cell2of2{
+	flex-grow:1;
+}
