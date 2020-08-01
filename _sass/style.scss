@@ -9,10 +9,15 @@
 	padding: 0.25em;
 	margin:0 1em 0 1em;
 }
-.cell1of2{
+.trg{
 	flex-grow:1;
 	font-weight:bold;
+	font-style:normal;
 }
-.cell2of2{
+.rom{
+	flex-grow:1;
+	font-style:normal;
+}
+.prm{
 	flex-grow:1;
 }

@@ -8,7 +8,11 @@ Test Phrase
 {: .lang-h}
 
 
-*Uyghur Language*{: .cell1of2} *English language*{: .cell2of2}
+*Uyghur Language*{: .trg} *English language*{: .prm}
 {: .lang-r}
-*Uyghur Language*{: .cell1of2} *English language*{: .cell2of2}
+*Uyghur Language*{: .trg} *English language*{: .prm}
+{: .lang-r}
+  
+  
+*CHINESE*{: .trg} *Ni3 Hao3!*{: .rom} *Hello!*{: .prm}
 {: .lang-r}
