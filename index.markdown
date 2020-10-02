@@ -13,3 +13,5 @@ layout: home
 <p>Make music using a simple interface.</p>
 <h3><a href="{{ 'apps/fractal-explorer/index.html' | relative_url }}">Fractal Explorer</a></h3>
 <p>Explore intriguing fractals drawn on the complex plane, including the Mandelbrot Set and its associated Julia sets.</p>
+<h3><a href="{{ 'apps/uyghur-lemmatizer/index.html' | relative_url }}">Uyghur Lemmatizer</a></h3>
+<p>Break down Uyghur-language text into its grammatical components.</p>
