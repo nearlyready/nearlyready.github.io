@@ -15,3 +15,5 @@ layout: home
 <p>Explore intriguing fractals drawn on the complex plane, including the Mandelbrot Set and its associated Julia sets.</p>
 <h3><a href="{{ 'apps/uyghur-lemmatizer/index.html' | relative_url }}">Uyghur Lemmatizer</a></h3>
 <p>Break down Uyghur-language text into its grammatical components.</p>
+<h3><a href="{{ 'apps/parallel-texts/index.html' | relative_url }}">Parallel Texts</a></h3>
+<p>A handy tool for making parallel texts and flashcards from corresponding blocks of source and target text.</p>
